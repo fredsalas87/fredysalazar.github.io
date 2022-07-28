@@ -91,16 +91,16 @@ body {
     padding: .4rem 0;
     display: flex;
     align-items: center;
-    color: #d6dbdfaf;
+    color: #D6DBDF;
     letter-spacing: 1px;
-    font-size: 18px;
+    font-size: 15px;
 }
 
 .contact-info ul li i,
 .references ul li i {
     padding-right: 1rem;
     font-size: 18px;
-    color: #2E86C1;
+    color: #D6DBDF;
 }
 
 .skills ul {
@@ -109,7 +109,7 @@ body {
 }
 .skills ul li p {
     padding: .4rem 0;
-    color: #d6dbdfaf;
+    color: #D6DBDF;
     font-size: 18px;
     letter-spacing: 1px;
     display: flex;
